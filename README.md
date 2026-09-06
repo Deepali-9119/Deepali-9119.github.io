@@ -42,6 +42,7 @@ This portfolio website is designed for **Product Management recruiters, hiring m
 
 ### Education
 - **Indian Institute of Technology (IIT), Roorkee**: Product Management with Applied AI (Dec 2025 – Jun 2026)  
+  *iHUB DivyaSampark, IIT Roorkee · Delivered through Masai School*  
   *Capstone Project: PhonePe Smart Spend Coach (Personal finance AI nudge engine)*
 - **University of North Bengal**: Bachelor of Science (BSc) in Chemistry (2020 – 2023)  
   *Scientific methodology, empirical data analysis, and first-principles hypothesis testing*
